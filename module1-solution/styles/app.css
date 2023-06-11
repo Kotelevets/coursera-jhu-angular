@@ -1,0 +1,9 @@
+.form-group.message.green {
+    color: green;
+    border: 1px solid green;
+}
+
+.form-group.message.red {
+    color: red;
+    border:1px solid red;
+}
